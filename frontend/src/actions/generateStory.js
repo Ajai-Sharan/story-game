@@ -3,7 +3,7 @@ export const generateStory = async (userPrompt, setStorySegments, setIsLoading, 
     setIsLoading(true);
     setError('');
 
-    const response = await fetch(`http://localhost:5001/api/story`, {
+    const response = await fetch(`https://story-game-dohbkhos5-ajai-sharans-projects.vercel.app/api/story`, {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json',
