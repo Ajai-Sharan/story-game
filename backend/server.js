@@ -8,7 +8,8 @@ dotenv.config();
 const app = express();
 const port = process.env.PORT || 5000; 
 
-app.use(cors({ origin: "https://story-game-bay.vercel.app/" }));
+app.use(cors());
+app.options('*', cors());
 app.use(express.json());
 
 app.use('/api', storyRouter);
@@ -16,6 +17,10 @@ app.use('/api', storyRouter);
 app.get('/', (req, res) => {
     res.send('Storytelling Game Backend');
 });
+
+app.listen(port, () => {
+    console.log(`Server is running on port ${port}`)
+})
 
 
 export default app;
