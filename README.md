@@ -2,6 +2,8 @@
 
 **Story Game** is an interactive storytelling application where users can generate engaging story segments based on their prompts. The app uses AI to create story continuations, provide choices for the next steps, and fetch relevant images from Unsplash to enhance the storytelling experience.
 
+![image](https://github.com/user-attachments/assets/b1600835-9acd-4868-887d-9f54d0f6f52e)
+
 ## Features
 - **AI-Generated Stories**: Generate story segments based on user prompts using AI.
 - **Interactive Choices**: Provide users with multiple choices to decide the next step in the story.
