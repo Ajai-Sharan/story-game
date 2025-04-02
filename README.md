@@ -15,9 +15,9 @@
 
 - **React**: For building the user interface.
 
--**Tailwind CSS**: For styling the application.
+- **Tailwind CSS**: For styling the application.
 
--**Fetch API**: For making API requests to the backend.
+- **Fetch API**: For making API requests to the backend.
 
 **Backend**:
 
@@ -101,16 +101,6 @@ story-game/
 ## Contributing
 Contributions are welcome! If you'd like to contribute to the project, please fork the repository and submit a pull request.
 
-## License
-This project is licensed under the MIT License.
 
-## Acknowledgments
-We would like to thank:
-- [OpenAI](https://openai.com/) for providing inspiration and tools for development.
-- The open-source community for libraries and frameworks used in this project.
-- Playtesters for their valuable feedback and suggestions.
-
-## Contact
-For any inquiries or feedback, please contact us at [email@example.com](mailto:email@example.com).
 
 
