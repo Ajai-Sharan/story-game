@@ -9,7 +9,7 @@
 - **Interactive Choices**: Provide users with multiple choices to decide the next step in the story.
 - **Image Integration**: Fetch relevant images from Unsplash based on the story's theme.
 - **Responsive Design**: Fully responsive UI built with Tailwind CSS.
-- **Sharable Links**: Generate sharable links for story segments.
+- **Download Story**: Download the story using the download button.
 
 ## Technologies Used
 
